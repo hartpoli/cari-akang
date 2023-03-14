@@ -1,6 +1,6 @@
 # cari_akang
 
-A new Flutter project.
+This is program builded using Flutter and Firebase
 
 ## Getting Started
 
